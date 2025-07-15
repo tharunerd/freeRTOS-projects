@@ -23,10 +23,7 @@ This simulates how tasks can coordinate actions using semaphores, a basic but po
 ## 🚀 How to Run
 
 1. Clone the repo:
-   ```bash
-    clone  this repository 
-````
-
+  
 2. Open in STM32CubeIDE or copy into your FreeRTOS environment.
 
 3. Build and flash (or simulate).
