@@ -9,15 +9,10 @@ Two tasks are created:
 
 This simulates how tasks can coordinate actions using semaphores, a basic but powerful RTOS synchronization primitive.
 
-## 📂 File Structure
-
-```
-
-📁 FreeRTOS-Binary-Semaphore-Demo
+##  📁 FreeRTOS-Binary-Semaphore-Demo
 ┣ 📄 main.c            # FreeRTOS application source code
 ┣ 📄 README.md         # This documentation
 
-````
 
 ## ⚙️ Requirements
 
