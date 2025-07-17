@@ -30,10 +30,10 @@ This simulates how tasks can coordinate actions using semaphores, a basic but po
 
 4. You should see:
 
-   ```
+   
    TaskA: Sending signal
    TaskB: Received signal! Doing work...
-   ```
+   
 
 ## 🔑 Core FreeRTOS APIs Used
 

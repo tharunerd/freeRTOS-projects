@@ -21,9 +21,10 @@ You can run this on:
 - Online embedded C simulators (with FreeRTOS support)
 
 ### 📂 File Structure
-
+````
 ├── main.c // Core logic with SensorTask and ProcessingTask
 ├── FreeRTOSConfig.h // (Optional) RTOS config file if you're using your own config
 ├── README.md // Project overview and usage instructions
 ├── .gitignore // Git ignore rules (optional)
 └── Makefile // Build script (if you're using CLI or simulator)
+````
